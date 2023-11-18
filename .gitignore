@@ -1,0 +1,12 @@
+#directories
+node_modules/
+dist/
+data/
+.vscode/
+
+#configuration files
+.env
+
+# compiled  files
+*.js
+*.d.ts
